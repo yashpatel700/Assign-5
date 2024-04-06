@@ -22,13 +22,16 @@ You will be prompted to enter the number of Fibonacci terms to generate.
 Enter a positive integer and press Enter.
 The script will output the Fibonacci sequence up to the specified number of terms.
 
-Author
+# Author
 (https://github.com/yashpatel700)
 
-License
+# License
 This project is open source.
 
-Acknowledgement
+# Comment 
+https://github.com/yashpatel700/Assign-5#assign-5
+
+# Acknowledgement
 Fibonacci Sequence Generator
 
 
